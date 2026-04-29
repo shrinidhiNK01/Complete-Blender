@@ -1,0 +1,30 @@
+G:- move the object
+R:- rotate the object
+S:- scale the object
+X:- Delete the Object
+shift+A = mesh -> new shape
+shift+right = click move 3d cursor
+shift+C = reset 3d cursor to origin
+G:- move the object   |  +Z = up / +Y = front / +X = right
+R:- rotate the object |  +Z = up / +Y = front / +X = right
+S:- scale the object  |  +Z = up / +Y = front / +X = right
+X:- Delete the Object |  +Z = up / +Y = front / +X = right
+
+GIZMOS
+shift+scroll
+
+object mode--> edit mode=> edit vertex,edit edges,edit surfaces
+ctrl+s =save the blend
+
+Modes of viewport shading:- it will be in top left corner
+=========================
+1)wireframe mode
+2)solid mode
+3)material preview mode
+4)render preview mode
+
+A:- Select all , right click :- u can sub divide , assign the number of cuts u want
+
+camera view:- press 0 on numpad
+bevel tool:- ctrl+b 
+shift+alt :- holding the selected edge
