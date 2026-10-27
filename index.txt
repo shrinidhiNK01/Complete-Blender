@@ -9,8 +9,12 @@ G:- move the object   |  +Z = up / +Y = front / +X = right
 R:- rotate the object |  +Z = up / +Y = front / +X = right
 S:- scale the object  |  +Z = up / +Y = front / +X = right
 X:- Delete the Object |  +Z = up / +Y = front / +X = right
+ 
+GIZMOS = Move button , in 3d we can move the object :- G 
+similarly rotate button :- all 3d plave  :- R
+similary scale button:- 3d axis :- S
 
-GIZMOS
+
 shift+scroll
 
 object mode--> edit mode=> edit vertex,edit edges,edit surfaces
